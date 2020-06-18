@@ -1,0 +1,7 @@
+html, body {
+  margin: 0;
+  padding: 0;
+}
+canvas{
+  border: 2px solid rgba(248, 14, 143, 0.904);
+}
